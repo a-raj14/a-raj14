@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: while(code.getStuck())
 { 
-Sleep; 
+sleep(); 
 }  
   
 
