@@ -6,7 +6,7 @@
 ### <div align="center">I'm Ayush, a full-time software developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on Mobile Development  
+- 🔭 I’m currently working on Software Development  
   
 
 - 🌱 I’m currently learning Android Studio and NLP used machine learning.  
