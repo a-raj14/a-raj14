@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Android Studio and NLP used machine learning.  
   
 
-- ❓ Ask me about related to C- family Development , Mobile Development.  
+- ❓ Ask me about related to Software Development & Mobile Development.  
   
 
 - ⚡ Fun fact: while(code.getStuck())
