@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ayush, a full-time software developer 👨‍💻 working since 2022 🚀</div>  
+### <div align="center">I'm Ayush, a full-time software developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on Software Development  
