@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Software Development  
   
 
-- 🌱 I’m currently learning Android Studio and NLP used machine learning.  
+- 🌱 I’m learning Mobile App development and NLP using machine learning.  
   
 
 - ❓ Ask me about related to Software Development & Mobile Development.  
