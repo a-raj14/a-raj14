@@ -8,7 +8,7 @@
 
 🌱 I’m learning Cloud technologies, Distributed Systems, and Microservices architecture.
 
-❓ Ask me about Backend Development, Golang, Cloud Solutions, and API design.
+❓ Ask me about Backend Development, Java, Spring Boot, Golang, Cloud Solutions, and API design.
 
 ⚡ Fun fact: while (frontend.isStuck()) {
     backend.takeOver();  # Let the server handle it
