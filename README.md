@@ -8,15 +8,11 @@
 
 🌱 Building expertise in Cloud Technologies, Microservices Architecture, and Distributed Systems.
 
-✅ Experienced in designing scalable, reliable, and maintainable backend solutions.
-
 🎨 Frontend Developer with hands-on experience in React, Android S JavaScript, HTML, and CSS, delivering responsive and intuitive user interfaces.
 
-💻 Passionate about end-to-end product development, seamlessly integrating frontend and backend for robust applications.
+📱 Exposure to Android Studio, Xcode, and Unity for mobile development prototyping.
 
 💬 Let's connect on topics like Backend Development, API Design, Frontend Development, Cloud Solutions, and Software Architecture.
-
-📱 Exposure to Android Studio, Xcode, and Unity for mobile development prototyping.
 
 🔥 I love turning ideas into working software.
 
