@@ -3,7 +3,7 @@
 </div>-->  
 
 # <div align="left">Hi 👋 I'm Ayush Rajput</div>
-I'm a full-stack developer (since 2021) with a strong backend focus, specializing in Java (Spring Boot), Golang, API design, and microservices, with additional experience in frontend development.
+I'm a Software Engineer (since 2021) with a strong backend focus, specializing in Java (Spring Boot), Golang, API design, and microservices, with additional experience in frontend development.
 
 🔭 Currently building cloud-native apps and exploring advanced distributed systems design.
 
