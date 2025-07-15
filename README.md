@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<!-- <div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ3bHZpYzhlZHNuajRuaDh0dmJyd2ppdjQ4Z244czF5cm9kdGZtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" align="center" style="width: 100%" />
+</div>-->  
 
 ### <div align="center">I'm Ayush, a full-stack developer 👨‍💻 working since 2021 🚀.</div>
 🔭 Backend Developer specializing in Java, Spring Boot, Golang, and API Design.
@@ -68,6 +67,15 @@
 </div>
 <br/>  
 
+<h2 align="center">👨‍💻 Most Used Programming Languages</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/a-raj14" target="_blank">
@@ -78,10 +86,11 @@
 <a href="https://www.instagram.com/ayushraj.14/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="mailto:ayush.rajput1410@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>
 </div>  
   
-
-<br/>  
 
 
 ## Github Stats  
